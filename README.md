@@ -7,6 +7,7 @@ Share Your Thoughts is a web API where users can make friends and share their th
 [Description](#Description)  
 [Installation](#Installation)  
 [Tests](#Tests)  
+[Demo](#Demo)
 [License](#License)     
 [Author](#Author)
 
@@ -85,6 +86,9 @@ Testing restful API calls using Insomnia
 ---
 **`/api/thoughts/:thoughtId/reactions/:reactionId`**
 * `DELETE` remove a reaction by the `reactionId` 
+
+## Demo:
+<video controls src="./assets/shareyourthoughts.mp4" title="Demo"></video>
 
 ## License: 
  This project is under the ISC license.  
