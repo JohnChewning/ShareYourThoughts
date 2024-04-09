@@ -82,8 +82,8 @@ const thoughtController = {
                     return;
                 }
                 return User.findOneAndUpdate(
-                    { _id: params.userId },
-                    { $pull: { thoughts: params.Id } },
+                    { thoughts: params.id },
+                    { $pull: { thoughts: params.id } },
                     { new: true }
                 )
             })
