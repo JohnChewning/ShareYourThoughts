@@ -4,10 +4,11 @@ Share Your Thoughts is a web API where users can make friends and share their th
 
  ## Table of Contents:  
 
-[1. Description](#Description)  
-[4. Installation](#Installation)  
-[5. Tests](#Tests)  
-[6. License](#License)     
+[Description](#Description)  
+[Installation](#Installation)  
+[Tests](#Tests)  
+[License](#License)     
+[Author](#Author)
 
 ## Description:
 This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.
@@ -87,3 +88,7 @@ Testing restful API calls using Insomnia
 
 ## License: 
  This project is under the ISC license.  
+
+## Author:
+
+github: https://github.com/JohnChewning
